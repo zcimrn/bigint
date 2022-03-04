@@ -1,0 +1,7 @@
+*
+!.gitignore
+!readme.md
+!Makefile
+!bigint.h
+!main.cpp
+!test.py
